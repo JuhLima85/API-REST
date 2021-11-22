@@ -1,0 +1,1 @@
+web: java-Deserver.port=$PORT -Dspring.profiles.active=prod -jar target/ projeto_Teste-0.0.1-SNAPSHOT.jar
