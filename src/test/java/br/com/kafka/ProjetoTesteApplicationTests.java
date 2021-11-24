@@ -16,7 +16,7 @@ class ProjetoTesteApplicationTests {
 	@Test
 	void contextLoads() {
 		ProdutoModel cad = new ProdutoModel();
-		cad.setNome("Shampoo");
+		cad.setNome("Condicionador");
 		cad.setQuantidade(6.00);
 		cad.setValor(120.00);
 		
